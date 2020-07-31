@@ -1,3 +1,3 @@
 # myqr
-# A simple python script that generates qrcode that leads to the provided url, upon scanning.The modules used are
-  pyqrcode to help in generating the qrcode, and pypng module that helps in saving the image in png format.
+# A simple python script that generates a qrcode upon scanning to lead the user to the provided url, 'https://www.wycliffemuchumi.co.ke/'.
+# The python modules used are pyqrcode that helps in generation of the qrcode and pypng that helps in saving the image in png format.
